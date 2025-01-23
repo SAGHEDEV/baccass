@@ -1,6 +1,6 @@
 import { H1, P } from "../../global-components/headings";
 import { MdSlowMotionVideo } from "react-icons/md";
-import LandingImage from "../../../assets/landing_page/Group 138.svg";
+import LandingImage from "../../../assets/landing_page/Group138.svg";
 import Line from "../../../assets/landing_page/Vector 32.svg";
 
 const HeroSection = () => {
