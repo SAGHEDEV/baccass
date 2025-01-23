@@ -30,7 +30,7 @@ const HeroSection = () => {
       <img
         src={LandingImage}
         alt="Welcome Here"
-        className="w-full lg:w-[60%] relative lg:-right-20"
+        className="w-full lg:w-[60%] translate-x-10"
       />
     </div>
   );

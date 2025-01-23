@@ -25,11 +25,7 @@ const BenefitSection = () => {
           ))}
         </div>
       </div>
-      <img
-        src={BenefitVector}
-        alt=""
-        className="lg:w-[50%] relative lg:-right-20"
-      />
+      <img src={BenefitVector} alt="" className="lg:w-[50%] relative " />
     </div>
   );
 };
